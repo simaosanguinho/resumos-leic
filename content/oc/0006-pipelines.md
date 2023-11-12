@@ -96,7 +96,7 @@ Para resolver o problema das dependências de dados podemos usar o resultado ass
 disponível, não sendo necessário esperar que seja colocado num registo, através de ligações
 adicionais no datapath.
 
-Olhemos para o seuinte exemplo:
+Olhemos para o seguinte exemplo:
 
 ![Data Hazard](./assets/0006-dataforwarding.png#dark=1)
 
